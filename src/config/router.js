@@ -17,7 +17,7 @@ function GameRouter(props) {
 
     return <Router history={history}>
         <Switch>
-          <Route exact path="/" component={Menu} />
+          <Route exact path="/Incoder/" component={Menu} />
 
           <Route path="/game" render={() => <App/>} />
         </Switch>
