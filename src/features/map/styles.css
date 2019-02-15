@@ -1,0 +1,17 @@
+.tile {
+  display: inline-flex;
+}
+.rock {
+  background-image: url("/tiles/rock.png");
+}
+.grass {
+  background-color: #1c8a1c;
+}
+.tree {
+  background-image: url("/tiles/tree.png");
+}
+.fridge {
+  background-image: url("/tiles/fridge.jpg");
+  background-size: contain;
+  background-repeat: no-repeat;
+}
