@@ -1,14 +1,15 @@
 {
-  "main.css": "/Incoder/static/css/main.081ab8f4.chunk.css",
-  "main.js": "/Incoder/static/js/main.e2fc195b.chunk.js",
-  "main.js.map": "/Incoder/static/js/main.e2fc195b.chunk.js.map",
+  "main.css": "/Incoder/static/css/main.003c373c.chunk.css",
+  "main.js": "/Incoder/static/js/main.65346fa7.chunk.js",
+  "main.js.map": "/Incoder/static/js/main.65346fa7.chunk.js.map",
   "runtime~main.js": "/Incoder/static/js/runtime~main.3906234d.js",
   "runtime~main.js.map": "/Incoder/static/js/runtime~main.3906234d.js.map",
   "static/js/2.9242ffa4.chunk.js": "/Incoder/static/js/2.9242ffa4.chunk.js",
   "static/js/2.9242ffa4.chunk.js.map": "/Incoder/static/js/2.9242ffa4.chunk.js.map",
   "index.html": "/Incoder/index.html",
-  "precache-manifest.d811c7e3bc3892ab3003a6bc13689730.js": "/Incoder/precache-manifest.d811c7e3bc3892ab3003a6bc13689730.js",
+  "precache-manifest.6b2342db2c05d85204748edabea6e356.js": "/Incoder/precache-manifest.6b2342db2c05d85204748edabea6e356.js",
   "service-worker.js": "/Incoder/service-worker.js",
-  "static/css/main.081ab8f4.chunk.css.map": "/Incoder/static/css/main.081ab8f4.chunk.css.map",
+  "static/css/main.003c373c.chunk.css.map": "/Incoder/static/css/main.003c373c.chunk.css.map",
+  "static/media/styles.css": "/Incoder/static/media/menu_logo.7a9079f1.jpg",
   "static/media/player_walk.png": "/Incoder/static/media/player_walk.9f19440f.png"
 }
